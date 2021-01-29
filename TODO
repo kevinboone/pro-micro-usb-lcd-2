@@ -1,0 +1,3 @@
+- Map character codes to some plausible encoding
+- Do something with unhandled control characters
+
